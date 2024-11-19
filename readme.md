@@ -6,4 +6,6 @@
 
 ### 2. Directorio de area de preparación
 
-### 3. Directorio de repositior (local)
+### 3. Directorio del repositorio (local)
+
+### 4. Directorio del repositorio (remoto)
